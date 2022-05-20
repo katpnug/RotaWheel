@@ -1,0 +1,147 @@
+    # Project definitions (do not edit)
+Task: wheel_photometry
+scorer: KPN
+date: May22
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_aRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_bRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_cRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_dRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_eRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_aRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_bRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_cRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_dRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_eRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_aRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_bRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_cRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_dRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6871_1_20210510_100fps_eRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_aRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_bRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_cRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_dRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\DLC_projects\wheel_photometry-KPN-2021-05-22\videos\AG6982_3_20210522_100fps_eRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\DLC_wheel\left\AG6982_3_20210522_100fps_eRAMP_L.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\DLC_wheel\right\AG6982_3_20210522_100fps_eRAMP_R.mp4:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\DLC_wheel\20210608\DLC_VIDEOS\AG6982_4_20210608_100fps_dRAMP_L_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\DLC_wheel\20210608\DLC_VIDEOS\AG6982_4_20210608_100fps_dRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\DLC_wheel\20210608\DLC_VIDEOS\AG6982_5_20210608_100fps_fRAMP_L_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\DLC_wheel\20210608\DLC_VIDEOS\AG6982_5_20210608_100fps_fRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_1_20210716_100fps_eRAMP_L_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_1_20210716_100fps_eRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_3_20210716_100fps_cRAMP_L_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_3_20210716_100fps_cRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_3_20210716_100fps_dRAMP_L_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_3_20210716_100fps_dRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_3_20210716_100fps_eRAMP_L_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\2 - AG7028\RotaWheel\20210716\Trimmed\AG7028_3_20210716_100fps_eRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\3 - AG7180\RotaWheel\20210722\DLC_VIDEOS\AG7180_1_20210722_100fps_eRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\3 - AG7180\RotaWheel\20210723\DLC_VIDEOS\AG7180_1_20210723_100fps_eRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\3 - AG7180\RotaWheel\20210724\DLC_VIDEOS\AG7180_1_20210724_100fps_eRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+  B:\Users\Katrina\Experiments\3 - AG7180\RotaWheel\20210725\DLC_VIDEOS\AG7180_1_20210725_100fps_rRAMP_R_flipped.avi:
+    crop: 0, 832, 0, 632
+bodyparts:
+- front
+- hind1
+- hind2
+- nose
+- bodypart1
+- bodypart2
+- bodypart3
+- tail
+- wheel
+start: 0
+stop: 1
+numframes2pick: 30
+
+    # Plotting configuration
+skeleton:
+- - hind1
+  - hind2
+- - hind2
+  - bodypart3
+- - bodypart3
+  - tail
+- - bodypart1
+  - bodypart2
+- - bodypart2
+  - bodypart3
+- - front
+  - bodypart1
+- - nose
+  - bodypart1
+skeleton_color: dimgray
+pcutoff: 0.6
+dotsize: 7
+alphavalue: 0.7
+colormap: viridis
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 3
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+croppedtraining: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
